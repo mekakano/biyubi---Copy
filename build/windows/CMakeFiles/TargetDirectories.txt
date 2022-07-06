@@ -1,0 +1,10 @@
+C:/Users/Useradmin/Documents/android/aplikasi android/biyubi/build/windows/CMakeFiles/INSTALL.dir
+C:/Users/Useradmin/Documents/android/aplikasi android/biyubi/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/Users/Useradmin/Documents/android/aplikasi android/biyubi/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Useradmin/Documents/android/aplikasi android/biyubi/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/Useradmin/Documents/android/aplikasi android/biyubi/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/Useradmin/Documents/android/aplikasi android/biyubi/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/Useradmin/Documents/android/aplikasi android/biyubi/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/Users/Useradmin/Documents/android/aplikasi android/biyubi/build/windows/runner/CMakeFiles/biyubi.dir
+C:/Users/Useradmin/Documents/android/aplikasi android/biyubi/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/Users/Useradmin/Documents/android/aplikasi android/biyubi/build/windows/runner/CMakeFiles/ALL_BUILD.dir

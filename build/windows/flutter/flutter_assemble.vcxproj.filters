@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Useradmin\Documents\android\aplikasi android\biyubi\build\windows\CMakeFiles\3a1b94e3abbeb1ae41cf8ae6f9525515\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Useradmin\Documents\android\aplikasi android\biyubi\build\windows\CMakeFiles\82852e918d0223bfb0a44d0da7a6d3f9\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Useradmin\Documents\android\aplikasi android\biyubi\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Useradmin\Documents\android\aplikasi android\biyubi\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CE736C56-ECD4-30F4-B268-AE9DCF3D0E10}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

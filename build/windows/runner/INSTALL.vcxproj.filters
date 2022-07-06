@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Useradmin\Documents\android\aplikasi android\biyubi\build\windows\CMakeFiles\b7e9f4ab2e5d4c1a54eaddc1bdf2dc72\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CE736C56-ECD4-30F4-B268-AE9DCF3D0E10}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
